@@ -32,7 +32,7 @@ _Key mobile platform design guidelines._
 ## Blackboard Collab Session
 [Conceptual Models and Prototyping](https://docs.google.com/presentation/d/e/2PACX-1vQ0Mu3_t-ydhAMdk7EIQcn-4vjEuOLGyKHoBubE_J-NFqnXAbedmyVzYVIV8PK4PzTWhV0kT1qwnkQr/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/69678/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-07) | [Recording](https://canvas.sfu.ca/courses/69678/external_tools/3544) (Look in Hamburger <i class="fa fa-bars"></i> menu)  
 
-<a class="embedly-card" data-card-controls="0" data-card-align="left" data-card-width="100%" href="https://docs.google.com/presentation/d/1TFgkftlfgu6GTDv84NdjqMRADDI51PR5xq0CfCDstNs/edit?usp=sharing">Conceptual Models and Prototyping</a>
+<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ0Mu3_t-ydhAMdk7EIQcn-4vjEuOLGyKHoBubE_J-NFqnXAbedmyVzYVIV8PK4PzTWhV0kT1qwnkQr/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## Zoom Cowork/Q&A Session
 Weekly Readings and Assignment 3 <span class='badge'> [Fri Jun 24 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220701T1430&p1=256&am=50)</span>  

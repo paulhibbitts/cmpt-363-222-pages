@@ -10,7 +10,7 @@
 ## Blackboard Collab Session
 [Course Overview](https://docs.google.com/presentation/d/e/2PACX-1vRQx4F7s9WU4OFtTfklLAjk6SWvkcNGhrWW4KwSIZ6PmmW_-mtbEzAANkfQvHNkXsClnJlJRAxmZwvc/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/69678/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-01) | [Recording](https://canvas.sfu.ca/courses/69678/external_tools/3544) (Look in Hamburger <i class="fa fa-bars" aria-hidden="true"></i> menu)  
 
-<a class="embedly-card" data-card-controls="0" data-card-align="left" data-card-width="100%" href="https://docs.google.com/presentation/d/1sp-q00Os1ZJSSDU6IWi49FdluGgbg0zvDgbzXqDXbb8/edit?usp=sharing">Course Overview</a>
+<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRQx4F7s9WU4OFtTfklLAjk6SWvkcNGhrWW4KwSIZ6PmmW_-mtbEzAANkfQvHNkXsClnJlJRAxmZwvc/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## Zoom Cowork/Q&A Session
 Weekly Readings <span class='badge'> [Fri May 13 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220513T1430&p1=256&am=50)</span>
