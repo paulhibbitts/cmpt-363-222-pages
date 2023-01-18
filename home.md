@@ -1,7 +1,7 @@
 
 <div class=alert>
 
-<h1> What’s Happening This Week 💫 </h1>
+<h1> What’s Happening This Week💫 </h1>
 
 <h2> End of the Semester  </h2>
 
@@ -20,7 +20,7 @@ No visual journal entry this week.
 
 ![SFU](images/7232870216_4b487b0cab_k.jpg ':class=banner-image')
 
-<h1> Discord Student Office Hours ‍👩🏽‍💻👨🏽‍💻 </h1>
+<h1> Discord Student Office Hours‍👩🏽‍💻👨🏽‍💻 </h1>
 
 <div class="row">
 <div class="column">
