@@ -1,6 +1,6 @@
 # Topics
 
-### [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | K | [L](#l) | [M](#m) | [N](#n) | O | [P](#p) | Q | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | X | Y | Z  
+### [A](#a)|[B](#b)|[C](#c)|[D](#d)|[E](#e)|[F](#f)|[G](#g)|[H](#h)|[I](#i)|[J](#j)|K|[L](#l)|[M](#m)|[N](#n)|O|[P](#p)|Q|[R](#r)|[S](#s)|[T](#t)|[U](#u)|[V](#v)|[W](#w)|X|Y|Z  
 
 ### A
 [Accessibility](https://canvas.sfu.ca/courses/69678/modules/items/2446680)  
