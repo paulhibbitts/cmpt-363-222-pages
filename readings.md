@@ -16,7 +16,7 @@
 ## Week 1
 ### What is usability and user experience design?
 **Defining usability (1 of 3 for Week 1)**  
-<div style="min-height: 430px;"><a class="embedly-card embedly-card-height" data-card-controls="0" data-card-align="left" href="http://blog.prototypr.io/defining-usability-e7bf42e8abd0">Defining usability</a></div>
+<div style="min-height: 430px;"><a class="embedly-card embedly-card-height" data-card-controls="0" data-card-align="left" href="https://blog.prototypr.io/defining-usability-e7bf42e8abd0">Defining usability</a></div>
 
 **An Introduction to User Experience Design (2 of 3 for Week 1)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://marvelapp.com/blog/introduction-user-experience-design/">An Introduction to User Experience Design</a></div>
